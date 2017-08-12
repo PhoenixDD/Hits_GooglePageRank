@@ -6,4 +6,5 @@ Description:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;after the error rate reaches upto the precision specified.<br/>
 ->Iteration value greater than 0 define the number of iteration.<br/>
 ->Initial value of -1 and -2 initializes the starting values as 1/N and 1/sqrt(N) respectively where N is the number of webpages<br/>
-->Initial value of 0 or 1 initializes the starting values as 0 or 1.
+->Initial value of 0 or 1 initializes the starting values as 0 or 1.<br/>
+->The code is documented for reference.
